@@ -1,4 +1,4 @@
-# ereader-book-prep
+# ereader-book-prep-skill
 
 A complete pipeline for acquiring, parsing, optimizing, organizing, and syncing e-books for low-RAM e-paper devices (especially the **Xteink X4**, **X3**, and **M5Paper**), and syncing them to local SD cards and Calibre.
 
@@ -22,7 +22,7 @@ A complete pipeline for acquiring, parsing, optimizing, organizing, and syncing 
 Clone or symlink into your agent skills directory (e.g., `~/.agents/skills/`):
 
 ```bash
-git clone git@github.com:gavmor/ereader-book-prep.git ~/.agents/skills/ereader-book-prep
+git clone git@github.com:gavmor/ereader-book-prep-skill.git ~/.agents/skills/ereader-book-prep
 ```
 
 See [`SKILL.md`](SKILL.md) for the complete workflow documentation.
